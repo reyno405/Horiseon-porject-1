@@ -3,8 +3,11 @@
 # Description
 
 -My motivation was to provide profesional profolio
+
 -I built this project to better understand html and css
+
 -This project deminstrate coding accessibility.
+
 -I learned how to read and write a code, also how i can clean the code up to make it more accessible.
 
 ## usage
